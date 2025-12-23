@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: radial-gradient(circle at top, #7c3aed, #020617);
+  color: white;
+  text-align: center;
+}
+
+.container {
+  padding: 40px;
+}
+
+.logo {
+  width: 80px;
+  border-radius: 20px;
+}
+
+button {
+  background: #7c3aed;
+  border: none;
+  padding: 12px 20px;
+  color: white;
+  font-size: 16px;
+  border-radius: 10px;
+  cursor: pointer;
+}
